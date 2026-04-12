@@ -1,7 +1,20 @@
-# My first machine learning
-In the file My_first_ML.ipynb, I answer this question:
-1. Create the file and rename there "My_first_ML"
-2. In the first cell, import numpy, pandas and seaborn.
-3. Create Dataframe with 5 students (name, note_Math, note_Pc)
-4. Display the mean of each learning
-5. Display graphic score mathematics of each students
+# 📖 Apprendre divers domaine liant mathématiques et informatique 
+
+Dans cette dépot j'explore divers domaines qui relie la mathématiques et l'informatique.
+Pour ceux qui veut aussi apprendre, cette dépôt peut vous instruire et vous aider dans vos besoin.
+
+## 🛠️ Prérequis et outils
+Assurer vos que vous avez installer anaconda ou vscode.
+- Git
+- Python
+- Jupyter
+
+## 💻 Installation et usage
+1. Cloner le dépôt 
+```bash
+git clone https://github.com/TifaniohMF/app-math-info.git
+cd app-math-info
+```
+
+2. Explorer
+Une fois dans le dossier, explore le domaine que tu veux
