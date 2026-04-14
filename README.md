@@ -17,4 +17,5 @@ cd app-math-info
 ```
 
 2. Explorer
+
 Une fois dans le dossier, explore le domaine que tu veux
